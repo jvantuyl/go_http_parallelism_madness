@@ -1,0 +1,6 @@
+.*.swp
+.vscode
+.DS_Store
+bin/*
+src/*
+src/github.org
